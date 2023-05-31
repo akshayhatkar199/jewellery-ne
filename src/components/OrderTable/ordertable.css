@@ -1,0 +1,130 @@
+.removeButton{
+    margin-top: 32px!important;
+}
+.errorMessage{
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: 0.875em;
+    color: #e55353;
+}
+.imagePreview{
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+}
+.main-title{
+margin-left: 6px;
+}
+
+.logosaidbar{
+width: 32px !important;
+margin-left: 10px;
+}
+.logosaidbar-text{
+margin-top: 11px;
+}
+.label-check-edit{
+    margin-left: 10px; 
+    margin-top: 3px;
+}
+.itemError{
+    margin-top: 0.25rem;
+    font-size: 0.875em;
+    color: #e55353;
+}
+.col-md-3 {
+    width: 24% !important;
+}
+.header-item{
+    margin-left: -16px;
+    margin-right: -17px;
+}
+.total-Charges{
+    width:30.333333% !important;
+}
+.Charges-input{
+    width: 30.333333% !important;
+}
+.type-input{
+    width: 24.333333% !important;
+}
+
+.input-item{
+    width: 38.666667% !important;
+}
+.item-background{
+    background-color: #f7f7f8;
+    border-radius: 9px;
+    padding: 11px;
+}
+
+
+/* > 576 px */
+@media only screen and (max-width: 576px){
+    .total-Charges{
+        width:100.333333% !important;
+    }
+    .Charges-input{
+        width:100.333333% !important;
+    }
+    .type-input{
+        width:100.333333% !important;
+    }
+    .input-item{
+        width:100.333333% !important;
+    }
+    .button-plus{
+        margin-bottom: 10px;
+    }
+    .text-complet-checkbox{
+        margin-top: 11px;
+       margin-bottom: -41px
+    }
+ }
+ 
+ /* > 576 px */
+ @media only screen and (min-width: 576px){
+   
+
+ }
+ /* > 763 px */
+ @media only screen and (min-width: 763px){
+    .input-item {
+        width: 29.666667% !important;
+    }
+}
+ /* > 619 px */
+ @media only screen and (min-width: 619px){
+    .input-item {
+        width: 28.666667% !important;
+    }
+
+ }
+ /* > 768 px */
+ @media only screen and (min-width: 768px){
+    .input-item {
+        width: 30.666667% !important;
+    }
+     
+ }
+ /* > 1049 px */
+ @media only screen and (min-width: 1049px){
+    .input-item {
+        width: 33.666667% !important;
+    }
+
+ }
+ /* > 1200 px */
+ @media only screen and (min-width: 1200px){
+    .input-item {
+        width: 36.666667% !important;
+    }
+
+ }
+ /* > 1400 px */
+ @media only screen and (min-width: 1400px){
+   
+    .input-item {
+        width: 37.666667% !important;
+    }
+ }

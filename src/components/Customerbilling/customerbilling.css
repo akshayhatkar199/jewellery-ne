@@ -1,0 +1,48 @@
+.tableTopSpace{
+    margin-top: 10px;
+}
+
+.buttonsOrderPage{
+    width: 32px;
+}
+.button-customerorder{
+    overflow: initial;
+    text-overflow: initial;
+    display: flex;
+    white-space: initial;
+}
+.order-table-img{
+    height: 50px;
+     width: 50px;
+     margin: 10px;
+}
+.topdropshow{
+  inset: initial !important;
+
+}
+.WQNxq {
+  position: relative;
+  width: 100%;
+  border-radius: inherit;
+  overflow-x: auto;
+  overflow-y: auto !important;
+  min-height: 0;
+}
+.form-control:disabled {
+  background-color: #f6f6f6;
+  border-color: #b1b7c1;
+  opacity: 1;
+  font-weight: 700;
+}
+/* 
+  input[type="date"] {
+    content: attr(placeholder);
+    color: white ;
+  }
+  
+  input[type="date"]:focus,
+  input[type="date"]:valid{
+    color: rgb(28, 26, 25) ;
+  } */
+  
+  
